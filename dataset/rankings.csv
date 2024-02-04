@@ -1,0 +1,31 @@
+name,rank,reputation
+Massachusetts Institute of Technology (MIT),1,100
+University of Cambridge,2,98.8
+Stanford University,3,98.5
+University of Oxford,4,98.4
+Harvard University,5,97.6
+California Institute of Technology (Caltech),=6,97
+Imperial College London,=6,97
+UCL,8,95
+ETH Zurich,9,93.6
+University of Chicago,10,93.2
+National University of Singapore (NUS),11,92.7
+Peking University,12,91.3
+University of Pennsylvania,13,90.6
+Tsinghua University,14,90.1
+The University of Edinburgh,15,89.5
+EPFL,=16,89.2
+Princeton University,=16,89.2
+Yale University,18,89
+"Nanyang Technological University, Singapore (NTU)",19,88.4
+Cornell University,20,87.2
+The University of Hong Kong,21,87
+Columbia University,22,86.7
+The University of Tokyo,23,85.3
+Johns Hopkins University,24,85.1
+University of Michigan-Ann Arbor,25,84.4
+Université PSL,26,83.8
+"University of California, Berkeley (UCB)",27,82.7
+The University of Manchester,28,82.3
+Seoul National University,29,82.2
+Australian National University (ANU),30,82.1

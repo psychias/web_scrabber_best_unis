@@ -1,0 +1,152 @@
+[
+      {
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "rank": "1",
+            "reputation": "100"
+      },
+      {
+            "name": "University of Cambridge",
+            "rank": "2",
+            "reputation": "98.8"
+      },
+      {
+            "name": "Stanford University",
+            "rank": "3",
+            "reputation": "98.5"
+      },
+      {
+            "name": "University of Oxford",
+            "rank": "4",
+            "reputation": "98.4"
+      },
+      {
+            "name": "Harvard University",
+            "rank": "5",
+            "reputation": "97.6"
+      },
+      {
+            "name": "California Institute of Technology (Caltech)",
+            "rank": "=6",
+            "reputation": "97"
+      },
+      {
+            "name": "Imperial College London",
+            "rank": "=6",
+            "reputation": "97"
+      },
+      {
+            "name": "UCL",
+            "rank": "8",
+            "reputation": "95"
+      },
+      {
+            "name": "ETH Zurich",
+            "rank": "9",
+            "reputation": "93.6"
+      },
+      {
+            "name": "University of Chicago",
+            "rank": "10",
+            "reputation": "93.2"
+      },
+      {
+            "name": "National University of Singapore (NUS)",
+            "rank": "11",
+            "reputation": "92.7"
+      },
+      {
+            "name": "Peking University",
+            "rank": "12",
+            "reputation": "91.3"
+      },
+      {
+            "name": "University of Pennsylvania",
+            "rank": "13",
+            "reputation": "90.6"
+      },
+      {
+            "name": "Tsinghua University",
+            "rank": "14",
+            "reputation": "90.1"
+      },
+      {
+            "name": "The University of Edinburgh",
+            "rank": "15",
+            "reputation": "89.5"
+      },
+      {
+            "name": "EPFL",
+            "rank": "=16",
+            "reputation": "89.2"
+      },
+      {
+            "name": "Princeton University",
+            "rank": "=16",
+            "reputation": "89.2"
+      },
+      {
+            "name": "Yale University",
+            "rank": "18",
+            "reputation": "89"
+      },
+      {
+            "name": "Nanyang Technological University, Singapore (NTU)",
+            "rank": "19",
+            "reputation": "88.4"
+      },
+      {
+            "name": "Cornell University",
+            "rank": "20",
+            "reputation": "87.2"
+      },
+      {
+            "name": "The University of Hong Kong",
+            "rank": "21",
+            "reputation": "87"
+      },
+      {
+            "name": "Columbia University",
+            "rank": "22",
+            "reputation": "86.7"
+      },
+      {
+            "name": "The University of Tokyo",
+            "rank": "23",
+            "reputation": "85.3"
+      },
+      {
+            "name": "Johns Hopkins University",
+            "rank": "24",
+            "reputation": "85.1"
+      },
+      {
+            "name": "University of Michigan-Ann Arbor",
+            "rank": "25",
+            "reputation": "84.4"
+      },
+      {
+            "name": "Universit\u00e9 PSL",
+            "rank": "26",
+            "reputation": "83.8"
+      },
+      {
+            "name": "University of California, Berkeley (UCB)",
+            "rank": "27",
+            "reputation": "82.7"
+      },
+      {
+            "name": "The University of Manchester",
+            "rank": "28",
+            "reputation": "82.3"
+      },
+      {
+            "name": "Seoul National University",
+            "rank": "29",
+            "reputation": "82.2"
+      },
+      {
+            "name": "Australian National University (ANU)",
+            "rank": "30",
+            "reputation": "82.1"
+      }
+]
